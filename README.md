@@ -15,7 +15,11 @@ It has the following operations:
 
 
 The DBMS has been implemented in C++ as a doubly linked list. It has the following files:
+
 *main.cpp:* Contains the main() and other helper functions.
+
 *node.h:* Contains the definition of data type studentData and the definition of the node for the database linked list.
+
 *database.h:* Header file for the database linked list.
+
 *database.cpp:* Implementation file for the database linked list. 
